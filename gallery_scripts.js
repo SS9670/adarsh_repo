@@ -176,3 +176,4 @@ money_button.addEventListener("click", () => {
 close_button.addEventListener("click", () => {
   money_modal.style.display = "none";
 });
+//adding comment herre
